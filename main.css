@@ -1,0 +1,9 @@
+body {
+  background-color: silver;
+}
+body {
+  background-image: linear-gradient(-90deg, silver,gray,green,olive);
+
+  p {
+    font-family: "Times New Roman", Times, serif;
+  }
